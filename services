@@ -1,0 +1,29 @@
+[
+  {
+    "image": "https://5.imimg.com/data5/UD/CD/UD/ANDROID-2577822/prod-20200725-2212247928036451076505197-jpg-500x500.jpg",
+    "product": "Air Conditioner",
+    "description": "Installation, Repair, Uninstallation",
+    "Services":[
+      {
+        "title":"Installation",
+        "price":"100",
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+      },
+            {
+        "title":"Repair",
+        "price":"100",
+        "image":"https://www.mrright.in/ideas/wp-content/uploads/2017/02/Split-ac-installation.jpg"
+      },
+      {
+        "title":"Uninstallation",
+        "price":"100",
+        "image":"https://lh3.googleusercontent.com/proxy/s1NVwLhhdOgM2LXP6hOqljjU5Ht3foLrNVf9Rr4_Y17zLKZst2Ai19xLRofpEsDvodXG9A0_aeCCbqYCCPiAJQOEf8ecsL2d592YUrWIh3kPdzpSxaY-fLCnN3EZ2zusyaw"
+      },
+      {
+        "title":"Buy & Installation",
+        "price":"100",
+        "image":"https://static.digit.in/default/11c06ecea67dc4623b4d259c65b88357c9b70c39.jpeg"
+      }
+      ]
+  }
+]
