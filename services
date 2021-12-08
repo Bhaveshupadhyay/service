@@ -7,23 +7,63 @@
     "services":[
       {
         "title":"Installation",
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg",
+        "types":[
+          {
+            "title":"Window",
         "price":"100",
         "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          },{
+            "title":"Glass",
+        "price":"400",
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          }
+          ]
       },
             {
         "title":"Repair",
+        "image":"https://www.mrright.in/ideas/wp-content/uploads/2017/02/Split-ac-installation.jpg",
+        "types":[
+          {
+            "title":"Window",
         "price":"100",
-        "image":"https://www.mrright.in/ideas/wp-content/uploads/2017/02/Split-ac-installation.jpg"
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          },{
+            "title":"Glass",
+        "price":"400",
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          }
+          ]
       },
       {
         "title":"Uninstallation",
+        "image":"https://lh3.googleusercontent.com/proxy/s1NVwLhhdOgM2LXP6hOqljjU5Ht3foLrNVf9Rr4_Y17zLKZst2Ai19xLRofpEsDvodXG9A0_aeCCbqYCCPiAJQOEf8ecsL2d592YUrWIh3kPdzpSxaY-fLCnN3EZ2zusyaw",
+        "types":[
+          {
+            "title":"Window",
         "price":"100",
-        "image":"https://lh3.googleusercontent.com/proxy/s1NVwLhhdOgM2LXP6hOqljjU5Ht3foLrNVf9Rr4_Y17zLKZst2Ai19xLRofpEsDvodXG9A0_aeCCbqYCCPiAJQOEf8ecsL2d592YUrWIh3kPdzpSxaY-fLCnN3EZ2zusyaw"
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          },{
+            "title":"Glass",
+        "price":"400",
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          }
+          ]
       },
       {
         "title":"Buy & Installation",
+        "image":"https://static.digit.in/default/11c06ecea67dc4623b4d259c65b88357c9b70c39.jpeg",
+        "types":[
+          {
+            "title":"Window",
         "price":"100",
-        "image":"https://static.digit.in/default/11c06ecea67dc4623b4d259c65b88357c9b70c39.jpeg"
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          },{
+            "title":"Glass",
+        "price":"400",
+        "image":"https://www.thorntonheatingandair.com/wp-content/uploads/2018/08/ENERGY-man-installing-new-ac-shutterstock_291265688-e1534370186720.jpg"
+          }
+          ]
       }
       ]
   }
